@@ -49,9 +49,11 @@ Also the image of the guide is very unclear of  connecting the PCB copper wires.
 
 Time spent this session: 4 hours
 
-### 2026-10-09 – Final PCB design:
+### 2026-10-09 – # October 9: PCB design Completed
 
 **3h**
+
+# October 9: PCB design Completed
 
 Final PCB design:
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/GOFCz7tpP2PDtoUpv5ysm4Ve2bbVIsjm/44978ef54470a931b5bc3d0f72088b79099a5052663fe189d3e4aafaea40641b.png)
