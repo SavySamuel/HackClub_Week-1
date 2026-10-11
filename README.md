@@ -1,14 +1,14 @@
 # Hack Club
 
-## [Week 1: Starbie](./Week1)
+## Week 1: Starbie
 
 Starbie is a PCB-based starter project built as part of Hack Club.
 The project's end goal is a companion device.
 It is motion-controlled digital pet.
 
-The folder `./Week1/Sketch/Starbie/` contains the schematics and the PCB layouts for Starbie.
+The folder `./Starbie/` contains the schematics and the PCB layouts for Starbie.
 
-The folder `./Week1/Sketch/Starbie` contains the code required for running the digital pet on the ESP32-C3
+The folder `./Sketch/Starbie` contains the code required for running the digital pet on the ESP32-C3
 
 ### Schematic View:
 ![Schematic View](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/GOFCz7tpP2PDtoUpv5ysm4Ve2bbVIsjm/4297154a174cc276520013ff4f2d12d5c7a4b019ed210db7cf612556c0345a1d.png)
